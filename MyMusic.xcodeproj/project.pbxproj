@@ -11,6 +11,8 @@
 		F9ED90092A219B7B00A7B2AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9ED90082A219B7B00A7B2AA /* ContentView.swift */; };
 		F9ED900B2A219B7D00A7B2AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9ED900A2A219B7D00A7B2AA /* Assets.xcassets */; };
 		F9ED900E2A219B7D00A7B2AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9ED900D2A219B7D00A7B2AA /* Preview Assets.xcassets */; };
+		F9ED90152A219E3B00A7B2AA /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9ED90142A219E3B00A7B2AA /* SoundPlayer.swift */; };
+		F9ED90172A21A26E00A7B2AA /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9ED90162A21A26E00A7B2AA /* BackgroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F9ED90082A219B7B00A7B2AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F9ED900A2A219B7D00A7B2AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9ED900D2A219B7D00A7B2AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F9ED90142A219E3B00A7B2AA /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		F9ED90162A21A26E00A7B2AA /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				F9ED90082A219B7B00A7B2AA /* ContentView.swift */,
 				F9ED900A2A219B7D00A7B2AA /* Assets.xcassets */,
 				F9ED900C2A219B7D00A7B2AA /* Preview Content */,
+				F9ED90142A219E3B00A7B2AA /* SoundPlayer.swift */,
+				F9ED90162A21A26E00A7B2AA /* BackgroundView.swift */,
 			);
 			path = MyMusic;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9ED90092A219B7B00A7B2AA /* ContentView.swift in Sources */,
+				F9ED90152A219E3B00A7B2AA /* SoundPlayer.swift in Sources */,
+				F9ED90172A21A26E00A7B2AA /* BackgroundView.swift in Sources */,
 				F9ED90072A219B7B00A7B2AA /* MyMusicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
